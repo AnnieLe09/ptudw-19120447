@@ -74,3 +74,6 @@ h1 {
 #footer .active{
     color:#FA97C2;
 }
+#footer .nav-item{
+    list-style-type: none;
+}
